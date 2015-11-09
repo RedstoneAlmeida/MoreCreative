@@ -1,0 +1,6 @@
+name: MoreCriative
+author: RedstoneAlmeida
+main: MoreCreative\MoreCreative
+version: 1.2.5
+api: [1.13.0]
+description: Add more items into Creative inventory!
